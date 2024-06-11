@@ -67,6 +67,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 ## T
 
+- [The AI Fella]([https://theaifella.com/]) - AI Tools List 
 - [There's An AI](https://theresanai.com) - No 1 AI Aggregator 
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
 - [Top AI Tools Hub](https://www.topaitoolshub.com/) - 
